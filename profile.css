@@ -24,3 +24,12 @@ h3{
     text-align:center;
     padding-bottom:5px;
 }
+
+
+
+.contact div:hover{
+    background-color:#99ffbb;
+}
+.web ul~li{
+    color:#99ffbb;
+}
